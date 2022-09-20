@@ -32,4 +32,11 @@
 [Mahdi Heydari - مهدی حیدری]()  
 [Mohammad Amin Ahmadi - محمد امین احمدی](https://github.com/mmdaminah)  
 [Mohammad Lashkari - محمد لشکری](https://github.com/MohammadLashkari)  
-[Pouria Amirinasab - پوریا امیری نسب]()  
+[Pouria Amirinasab - پوریا امیری نسب]() 
+
+<br />
+<p align="center">
+  <h2 align="center"> Link of class: </h2>
+  
+<p h2 align="center">
+<a href="https://quera.org/course/add_to_course/course/11946">Quera</a>
